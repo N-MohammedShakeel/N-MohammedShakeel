@@ -1,10 +1,8 @@
-[![MasterHead](https://pm1.narvii.com/6181/9d1988be2c6722d75b5eccf08714bf63fae2040c_hq.jpg)](https://mdshakeel.io)
+[![MasterHead](https://static.vecteezy.com/system/resources/previews/000/523/378/original/web-development-application-design-coding-and-programming-on-laptop-and-smartphone-concept-with-programming-language-and-program-code-and-layout-on-screen-vector.jpg)](https://mdshakeel.io)
 
 ### Hi there 👋<h1 align="center">Hi 👋, I'm Mohammed Shakeel</h1>
 <h3 align="center">A passionate Programmer from India</h3>https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif
-
- <img align="right alt="Coding width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-
+ (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakeel00111&label=Profile%20views&color=0e75b6&style=flat" alt="shakeel00111" /> </p>
 

@@ -1,9 +1,9 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/000/523/378/original/web-development-application-design-coding-and-programming-on-laptop-and-smartphone-concept-with-programming-language-and-program-code-and-layout-on-screen-vector.jpg)](https://mdshakeel.io)
+[![MasterHead](https://wallpapercave.com/wp/wp4694276.jpg)](https://mdshakeel.io)
 
 ### Hi there 👋<h1 align="center">Hi 👋, I'm Mohammed Shakeel</h1>
 <h3 align="center">👋 Hello there! I am Mohammed Shakeel, a student pursuing B.tech Computer Science and Business System at Panimalar Engineering College. 
-</h3>https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rithik126&label=Profile%20views&color=0e75b6&style=flat" alt="rithik126" /> </p>
+</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shakeel00111&label=Profile%20views&color=0e75b6&style=flat" alt="Shakeel00111" /> </p>
 
 
 

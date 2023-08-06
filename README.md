@@ -5,10 +5,6 @@
 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shakeel00111&label=Profile%20views&color=0e75b6&style=flat" alt="Shakeel00111" /> </p>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakeel00111&label=Profile%20views&color=0e75b6&style=flat" alt="shakeel00111" /> </p>
-
 - 🌱 I’m currently learning **some more branches of coding skills**
 
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/2485497900074732721?pli=1](https://www.blogger.com/blog/posts/2485497900074732721?pli=1)

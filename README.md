@@ -151,11 +151,6 @@
     </picture>
   </div>
   <br>
-  <div align=center>
-    <a href="https://github.com/Shakeel00111">
-      <img src="https://visitcount.itsvg.in/api?id=Shakeel00111&label=Profile%20Views&color=0&icon=6&pretty=true" />
-    </a>
-  </div>
 </p>
 
 ##

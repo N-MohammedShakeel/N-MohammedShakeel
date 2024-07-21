@@ -1,6 +1,9 @@
 [![MasterHead](https://wallpapercave.com/wp/wp4694276.jpg)](https://mdshakeel.io)
 
-### Hi there 👋<h1 align="center">Hi 👋, I'm Mohammed Shakeel</h1>
+
+
+### <h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=23&lines=Hi+👋,+I'm+Mohammed+Shakeel)](https://git.io/typing-svg) </h1>
+
 <h3 align="center">👋 Hello there! I am Mohammed Shakeel, a student pursuing B.tech Computer Science and Business System at Panimalar Engineering College. 
 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shakeel00111&label=Profile%20views&color=0e75b6&style=flat" alt="Shakeel00111" /> </p>

@@ -125,9 +125,39 @@
 -->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shakeel00111&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=shakeel00111&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shakeel00111&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakeel00111&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakeel00111&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
+<p align=center>
+  <div align=center>
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api?username=Shakeel00111&show_icons=true&theme=dracula" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api?username=Shakeel00111&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=Shakeel00111&show_icons=true" />
+    </picture>
+    <picture>
+      <source srcset="https://github-readme-streak-stats.herokuapp.com?user=Shakeel00111&theme=dracula" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-streak-stats.herokuapp.com?user=Shakeel00111" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com?user=Shakeel00111" />
+    </picture>
+  </div>
+  <br><br><br><br><br><br><br><br>
+  <div align=center>
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Shakeel00111&theme=dracula&langs_count=8&layout=compact" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Shakeel00111&langs_count=8&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shakeel00111&langs_count=8&layout=compact" />
+    </picture>
+  </div>
+  <br>
+  <div align=center>
+    <a href="https://github.com/Shakeel00111">
+      <img src="https://visitcount.itsvg.in/api?id=Shakeel00111&label=Profile%20Views&color=0&icon=6&pretty=true" />
+    </a>
+  </div>
+</p>
+
+
 
 
 ### ✍️ Random Dev Quote

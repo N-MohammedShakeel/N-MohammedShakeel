@@ -6,7 +6,7 @@
 
 <h3 align="center">👋 Hello there! I am Mohammed Shakeel, a student pursuing B.tech Computer Science and Business System at Panimalar Engineering College. 
 </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shakeel00111&label=Profile%20views&color=0e75b6&style=flat" alt="Shakeel00111" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=N-MohammedShakeel&label=Profile%20views&color=0e75b6&style=flat" alt="N-MohammedShakeel" /> </p>
 
 - 🌱 I’m currently learning **some more branches of coding skills**
 
@@ -135,21 +135,21 @@
 <p align=center>
   <div align=center>
     <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api?username=Shakeel00111&show_icons=true&theme=dracula" media="(prefers-color-scheme: dark)" />
-      <source srcset="https://github-readme-stats.vercel.app/api?username=Shakeel00111&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=Shakeel00111&show_icons=true" />
+      <source srcset="https://github-readme-stats.vercel.app/api?username=N-MohammedShakeel&show_icons=true&theme=dracula" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api?username=N-MohammedShakeel&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=N-MohammedShakeel&show_icons=true" />
     </picture>
     <picture>
-      <source srcset="https://github-readme-streak-stats.herokuapp.com?user=Shakeel00111&theme=dracula" media="(prefers-color-scheme: dark)" />
-      <source srcset="https://github-readme-streak-stats.herokuapp.com?user=Shakeel00111" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <source srcset="https://github-readme-streak-stats.herokuapp.com?user=N-MohammedShakeel&theme=dracula" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-streak-stats.herokuapp.com?user=N-MohammedShakeel" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
       <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com?user=Shakeel00111" />
     </picture>
   </div>
   <br><br><br><br><br><br><br><br>
   <div align=center>
     <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Shakeel00111&theme=dracula&langs_count=8&layout=compact" media="(prefers-color-scheme: dark)" />
-      <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Shakeel00111&langs_count=8&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=N-MohammedShakeel&theme=dracula&langs_count=8&layout=compact" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=N-MohammedShakeel&langs_count=8&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shakeel00111&langs_count=8&layout=compact" />
     </picture>
   </div>

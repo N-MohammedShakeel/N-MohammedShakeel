@@ -3,7 +3,7 @@
 
 ### <h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=23&lines=Hi+👋,+I'm+Mohammed+Shakeel)](https://git.io/typing-svg) </h1>
 
-<h3 align="center">👋 Hello there! I am Mohammed Shakeel, a student pursuing B.Tech in Computer Science and Business Systems at Panimalar Engineering College.</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=N-MohammedShakeel&label=Profile%20views&color=0e75b6&style=flat" alt="N-MohammedShakeel" /> </p>
+<!-- <h3 align="center">👋 Hello there! I am Mohammed Shakeel, a student pursuing B.Tech in Computer Science and Business Systems at Panimalar Engineering College.</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=N-MohammedShakeel&label=Profile%20views&color=0e75b6&style=flat" alt="N-MohammedShakeel" /> </p> -->
 
 - 🌱 I’m currently expanding my coding skills across multiple branches.
 

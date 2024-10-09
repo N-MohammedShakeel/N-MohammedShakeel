@@ -1,20 +1,18 @@
 [![MasterHead](https://wallpapercave.com/wp/wp4694276.jpg)](https://mdshakeel.io)
 
 
-
 ### <h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=23&lines=Hi+👋,+I'm+Mohammed+Shakeel)](https://git.io/typing-svg) </h1>
 
-<h3 align="center">👋 Hello there! I am Mohammed Shakeel, a student pursuing B.tech Computer Science and Business System at Panimalar Engineering College. 
-</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=N-MohammedShakeel&label=Profile%20views&color=0e75b6&style=flat" alt="N-MohammedShakeel" /> </p>
+<h3 align="center">👋 Hello there! I am Mohammed Shakeel, a student pursuing B.Tech in Computer Science and Business Systems at Panimalar Engineering College.</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=N-MohammedShakeel&label=Profile%20views&color=0e75b6&style=flat" alt="N-MohammedShakeel" /> </p>
 
-- 🌱 I’m currently learning **some more branches of coding skills**
+- 🌱 I’m currently expanding my coding skills across multiple branches.
 
-- 📝 I write articles on ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+- 📂 Check out my personal portfolio here: [ My Portfolio ](https://n-mohammedshakeel.github.io/ms_portfolio/)
+
+- 📝 I write articles on  ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
  [https://www.blogger.com/blog/posts/2485497900074732721?pli=1](https://www.blogger.com/blog/posts/2485497900074732721?pli=1) 
-- 📫 How to reach me **nmohammedshakeel22@gmail.com**
 
-- ⚡ Fun fact **I am a active entertaining person in a group**
+- 📫 How to reach me **nmohammedshakeel22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

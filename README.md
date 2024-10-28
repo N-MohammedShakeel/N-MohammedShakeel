@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently expanding my coding skills across multiple branches.
 
-- 📂 Check out my personal portfolio here: [ My Portfolio ](https://n-mohammedshakeel.github.io/ms_portfolio/)
+- Check out my personal portfolio here: [ My Portfolio ](https://n-mohammedshakeel.github.io/ms_portfolio/)
+
+- 📂 Check out the resources i have been currently using here: [ DevEase ](https://n-mohammedshakeel.github.io/DevEase/)
 
 - 📝 I write articles on  ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
  [https://www.blogger.com/blog/posts/2485497900074732721?pli=1](https://www.blogger.com/blog/posts/2485497900074732721?pli=1) 

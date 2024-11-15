@@ -141,10 +141,10 @@
     <picture>
       <source srcset="https://github-readme-streak-stats.herokuapp.com?user=N-MohammedShakeel&theme=dracula" media="(prefers-color-scheme: dark)" />
       <source srcset="https://github-readme-streak-stats.herokuapp.com?user=N-MohammedShakeel" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com?user=Shakeel00111" />
+      <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com?user=N-MohammedShakeel" />
     </picture>
   </div>
-  <br><br><br><br><br><br><br><br>
+ 
   <div align=center>
     <picture>
       <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=N-MohammedShakeel&theme=dracula&langs_count=8&layout=compact" media="(prefers-color-scheme: dark)" />

@@ -138,11 +138,11 @@
       <source srcset="https://github-readme-stats.vercel.app/api?username=N-MohammedShakeel&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
       <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=N-MohammedShakeel&show_icons=true" />
     </picture>
-<!--     <picture>
+    <picture>
       <source srcset="https://github-readme-streak-stats.herokuapp.com?user=N-MohammedShakeel&theme=dracula" media="(prefers-color-scheme: dark)" />
       <source srcset="https://github-readme-streak-stats.herokuapp.com?user=N-MohammedShakeel" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
       <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com?user=N-MohammedShakeel" />
-    </picture> -->
+    </picture>
   </div>
  
   <div align=center>

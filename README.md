@@ -93,3 +93,21 @@
   </picture>
 </div>
 
+
+
+<div align="center">
+  <h3> 🤝 Guest's over time</h3>
+  <img src="https://komarev.com/ghpvc/?username=N-MohammedShakeel&style=for-the-badge" />
+  <br/><br/>
+
+  <h3> 🕑 History never lies</h3>
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=N-MohammedShakeel&theme=merko)
+  
+  ![Github Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N-MohammedShakeel&theme=2077)
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=N-MohammedShakeel&theme=2077" alt="Github Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=N-MohammedShakeel&theme=2077&utcOffset=05.30" alt="Most used languages"/>
+
+  <br/><br/>
+</div>

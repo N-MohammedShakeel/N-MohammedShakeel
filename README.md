@@ -70,10 +70,8 @@
 -->
 
 # 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=shakeel00111&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shakeel00111&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakeel00111&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
--->
+
+<!--
 <div align="center">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=N-MohammedShakeel&show_icons=true&theme=dracula" media="(prefers-color-scheme: dark)" />
@@ -92,6 +90,7 @@
     <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=N-MohammedShakeel&langs_count=8&layout=compact" />
   </picture>
 </div>
+-->
 
 
 

@@ -69,9 +69,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakeel00111&" alt="shakeel00111" /></p>
 -->
 
-# 📊 GitHub Stats:
+<!--# 📊 GitHub Stats:
 
-<!--
+
 <div align="center">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=N-MohammedShakeel&show_icons=true&theme=dracula" media="(prefers-color-scheme: dark)" />
@@ -95,9 +95,12 @@
 
 
 <div align="center">
-  <h3> 🤝 Guest's over time</h3>
+ 
+<!--   
+ <h3> 🤝 Guest's over time</h3>
+ [![](https://visitcount.itsvg.in/api?id=N-MohammedShakeel&icon=0&color=0)](https://visitcount.itsvg.in)
   <img src="https://komarev.com/ghpvc/?username=N-MohammedShakeel&style=for-the-badge" />
-  <br/><br/>
+  <br/><br/> -->
 
   <h3> 🕑 History never lies</h3>
 

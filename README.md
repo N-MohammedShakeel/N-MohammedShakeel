@@ -11,8 +11,7 @@
 
 - 📂 Check out the resources i have been currently using here: [ DevEase ](https://n-mohammedshakeel.github.io/DevEase/)
 
-- 📝 I write articles on [Hashnode](https://hashnode.com/@ms007)
-
+- 📝 I write articles on [Hashnode](https://hashnode.com/@mdshakeel)
 - 📫 How to reach me **nmohammedshakeel22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
